@@ -1,3 +1,27 @@
+<a name="readme-top"></a>
+
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
+
+Modify this file to match your project and remove sections that don't apply.
+
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
+
+OPTIONAL SECTIONS:
+<!-- TABLE OF CONTENTS -->
+
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -22,35 +46,140 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Portfolio setup and mobile first] <a name="about-project"></a>
+# 📖 [Portfolio: setup and mobile first] <a name="about-project"></a>
+
 
 
 **[My portfolio]** is a project describing my skills and qualifications.
-## Built With
+
+## 🛠 Built With <a name="built-with"></a>
 
 - HTML/CSS
 - Figma
+### Tech Stack <a name="tech-stack"></a>
+
+> Describe the tech stack and include only the relevant sections that apply to your project.
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+
 
 - **[CSS flexbox]**
 - **[HTML]**
 - **[CSS]**
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need: Github and Google chrome
+
+<!--
+Example command:
+
+```sh
+ gem install rails
+```
+ -->
+
+### Setup
+- Choose a directory
+- Open a Terminal
+- git clone https://github.com/Gakiiberyl/Portfolio-setup-and-mobile-first.git
+- go to directory " Portfolio-setup-and-mobile-first"
+- npm install
+
+<!--
+Example commands:
+
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+--->
+
+### Install
+
+Install this project with:  git clone https://github.com/Gakiiberyl/Portfolio-setup-and-mobile-first.git
+
+<!--
+Example command:
+
+```sh
+  cd my-project
+  gem install
+```
+--->
+
+### Usage
+
+To run the project, execute the following command: open index.html with google chrome
+
+<!--
+Example command:
+
+```sh
+  rails server
+```
+--->
+
+
+<!--
+Example command:
+
+```sh
+  bin/rails test test/models/article_test.rb
+```
+
+ -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!--
+Example command:
+
+```sh
+ gem install rails
+```
+ -->
+
+### Setup
+
+Clone this repository to your desired folder:
+
+<!--
+Example commands:
+
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+--->
 
 
 ## Authors
 
 👤 **berylcl**
 
-- GitHub: [@Gakiiberyl](https://github.com/berylcl)
+- GitHub: [@berylcl] (https://github.com/berylcl)
 - Twitter: [omg_its_beryl](https://twitter.com/omg_its_beryl)
-- LinkedIn: [callme-claudette](https://www.linkedin.com/in/callme-claudette-83a796230/)
+- LinkedIn: [callme-claudette](https://www.linkedin.com/in/callme-claudette-83a796230/
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+
 
 - [ ] **[Forms]**
 - [ ] **[Javascript]**
