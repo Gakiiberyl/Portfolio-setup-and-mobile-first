@@ -1,21 +1,29 @@
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [My portfolio] <a name="about-project"></a>
+# 📖 [Portfolio setup and mobile first] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
 **[My portfolio]** is a project describing my skills and qualifications.
 ## Built With
@@ -36,9 +44,9 @@
 
 👤 **berylcl**
 
-- GitHub: [@berylcl] (https://github.com/berylcl)
+- GitHub: [@Gakiiberyl](https://github.com/berylcl)
 - Twitter: [omg_its_beryl](https://twitter.com/omg_its_beryl)
-- LinkedIn: [callme-claudette](https://www.linkedin.com/in/callme-claudette-83a796230/
+- LinkedIn: [callme-claudette](https://www.linkedin.com/in/callme-claudette-83a796230/)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
